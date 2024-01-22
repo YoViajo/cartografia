@@ -1,0 +1,8 @@
+https://www.textureshading.com/Home.html
+https://m.box.com/shared_item/https%3A%2F%2Fapp.box.com%2Fv%2Ftextureshading/browse/122668213
+
+Texture Shading
+
+prueba con imagen SRTM 30m del oeste de Bolivia (nevado Sajama y alrededores)
+
+software original para Window, ejecutado con Wine en Linux

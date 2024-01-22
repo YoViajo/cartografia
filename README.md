@@ -12,4 +12,4 @@ Herramientas y técnicas de cartografía
 
 [Topografía de zona Samaipata [blender]](03/)
 
-
+[versión mejorada de relieve sombreado [Texture Shading]](04/)

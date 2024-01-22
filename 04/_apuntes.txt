@@ -1,0 +1,5 @@
+gdal_translate -of EHdr -ot Float32 s19w069_utm19s.tif s19w069_utm19s.flt
+
+wine texture 0.666667 /home/yoviajo/Documentos/lab/geom/98/dat/s19w069_utm19s.flt mi_textura.flt
+
+wine texture_image +2.0 mi_textura.flt mi_imagen.tif

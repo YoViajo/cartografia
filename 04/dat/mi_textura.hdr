@@ -1,0 +1,14 @@
+ncols         3530
+nrows         3699
+xllcorner     499985.2968
+yllcorner     7898858.0346
+cellsize      29.999744662508
+NODATA_value  -1e+006
+byteorder     LSBFIRST
+layout        BIL
+nbands        1
+nbits         32
+pixeltype     FLOAT
+min_value     -25.2
+max_value     16.1
+software      Texture v1.3.1 Nov 24 2013
