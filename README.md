@@ -10,4 +10,6 @@ Herramientas y técnicas de cartografía
 
 [Mapa rápido de la ciudad de Santa Cruz [PDFMapMaker]](02/)
 
+[Topografía de zona Samaipata [blender]](03/)
+
 
