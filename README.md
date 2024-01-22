@@ -6,4 +6,8 @@ Herramientas y técnicas de cartografía
 
 ## 📊 Contenido
 
-[generador de mapas de ciudades usando datos OSM [MyOSMatic]](01/)
+[Generador de mapas de ciudades usando datos OSM [MyOSMatic]](01/)
+
+[Mapa rápido de la ciudad de Santa Cruz [PDFMapMaker]](02/)
+
+
