@@ -16,3 +16,4 @@ Herramientas y técnicas de cartografía
 
 [Globo Blue Marble centrado en Bolivia [QGIS + Globe Builder]](05/)
 
+[Parámetros Lambert para Bolivia](06/)

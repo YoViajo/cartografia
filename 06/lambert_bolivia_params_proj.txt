@@ -1,0 +1,4 @@
++proj=lcc +lat_1=-11.5
++lat_2=-21.5 +lat_0=-24 +lon_0=-64
++x_0=1000000 +y_0=0 +datum=WGS84
++towgs84=0,0,0,0,0,0,0 +units=m +no_defs
