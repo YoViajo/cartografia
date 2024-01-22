@@ -1,0 +1,3 @@
+Complemento QGIS Globe Builder
+
+Prueba con imagen Blue Marble 2016, centrado en Bolivia (lon=-64, lat=-24)

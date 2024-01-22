@@ -13,3 +13,6 @@ Herramientas y técnicas de cartografía
 [Topografía de zona Samaipata [blender]](03/)
 
 [versión mejorada de relieve sombreado [Texture Shading]](04/)
+
+[Globo Blue Marble centrado en Bolivia [QGIS + Globe Builder]](05/)
+
