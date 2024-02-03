@@ -1,0 +1,8 @@
+http://scapetoad.choros.place/
+http://scapetoad.choros.place/download.php
+
+ScapeToad uses the Gastner/Newman [2004] diffusion-based algorithm to adapt map surfaces to user-defined variables without altering their topological relations.
+
+Cálculo departamentos de Bolivia para
+    Población 2012
+    PIB 2020
